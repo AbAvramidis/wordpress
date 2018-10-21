@@ -1,0 +1,7 @@
+---
+ classes:
+  - profile::apache
+  - profile::php
+  - profile::wp
+  - profile::conf
+  - profile::basex

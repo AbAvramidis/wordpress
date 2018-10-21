@@ -1,0 +1,17 @@
+.tmp/
+modules/apache
+modules/apt
+modules/archive
+modules/concat
+modules/inifile
+modules/mysql
+modules/php
+modules/selinux
+modules/staging
+modules/stdlib
+modules/translate
+modules/wordpress
+modules/zypprepo
+data/
+o-ri/
+modules/
